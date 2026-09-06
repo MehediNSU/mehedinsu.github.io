@@ -1,23 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.093f2b9e.css",
-    "main.js": "/static/js/main.0ee250c7.js",
-    "static/media/me.png": "/static/media/me.e508801d3bb038803e77.png",
-    "static/media/VUMI-Bangladesh.png": "/static/media/VUMI-Bangladesh.23c3d6838327d5d2be1b.png",
-    "static/media/Pyramid-Innovation-Ltd.png": "/static/media/Pyramid-Innovation-Ltd.e5d8f307e9e3ddbd619a.png",
-    "static/media/project2.png": "/static/media/project2.91ea5ae68dbcdf33b5e5.png",
-    "static/media/me-about.jpg": "/static/media/me-about.7ae7331ff4f0ba3c36c3.jpg",
-    "static/media/resume_md_mehedi_hasan.pdf": "/static/media/resume_md_mehedi_hasan.ba92f4617f5b0ff30ad8.pdf",
-    "static/media/project4.png": "/static/media/project4.2169cb588d91c3c97a79.png",
-    "static/media/project3.png": "/static/media/project3.b877232ea4561811cc8b.png",
-    "static/media/project1.png": "/static/media/project1.ae7601759ceddf214588.png",
-    "static/media/logo.jpg": "/static/media/logo.769246042873674e97c2.jpg",
+    "main.css": "/static/css/main.fc921c73.css",
+    "main.js": "/static/js/main.d8b9b528.js",
+    "static/media/me-portrait.jpg": "/static/media/me-portrait.3667fa43ecf8441355b0.jpg",
+    "static/media/telecom-automation.jpg": "/static/media/telecom-automation.cbef3cc90cf338171a5f.jpg",
+    "static/media/enterprise-workflow.jpg": "/static/media/enterprise-workflow.ba53a5cd879ff901dfdb.jpg",
+    "static/media/vumi-bangladesh.jpg": "/static/media/vumi-bangladesh.89942b9f068a11646735.jpg",
+    "static/media/pyramid-careers.jpg": "/static/media/pyramid-careers.495ee5142b7bc1707b00.jpg",
+    "static/media/resume_md_mehedi_hasan.pdf": "/static/media/resume_md_mehedi_hasan.7a864a3d1773910d79e0.pdf",
     "index.html": "/index.html",
-    "main.093f2b9e.css.map": "/static/css/main.093f2b9e.css.map",
-    "main.0ee250c7.js.map": "/static/js/main.0ee250c7.js.map"
+    "main.fc921c73.css.map": "/static/css/main.fc921c73.css.map",
+    "main.d8b9b528.js.map": "/static/js/main.d8b9b528.js.map"
   },
   "entrypoints": [
-    "static/css/main.093f2b9e.css",
-    "static/js/main.0ee250c7.js"
+    "static/css/main.fc921c73.css",
+    "static/js/main.d8b9b528.js"
   ]
 }
