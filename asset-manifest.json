@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.70d02239.css",
+    "main.css": "/static/css/main.a3c9a766.css",
     "main.js": "/static/js/main.d8b9b528.js",
     "static/media/me-portrait.jpg": "/static/media/me-portrait.3667fa43ecf8441355b0.jpg",
     "static/media/telecom-automation.jpg": "/static/media/telecom-automation.cbef3cc90cf338171a5f.jpg",
@@ -9,11 +9,11 @@
     "static/media/pyramid-careers.jpg": "/static/media/pyramid-careers.495ee5142b7bc1707b00.jpg",
     "static/media/resume_md_mehedi_hasan.pdf": "/static/media/resume_md_mehedi_hasan.7a864a3d1773910d79e0.pdf",
     "index.html": "/index.html",
-    "main.70d02239.css.map": "/static/css/main.70d02239.css.map",
+    "main.a3c9a766.css.map": "/static/css/main.a3c9a766.css.map",
     "main.d8b9b528.js.map": "/static/js/main.d8b9b528.js.map"
   },
   "entrypoints": [
-    "static/css/main.70d02239.css",
+    "static/css/main.a3c9a766.css",
     "static/js/main.d8b9b528.js"
   ]
 }
