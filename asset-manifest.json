@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a3c9a766.css",
-    "main.js": "/static/js/main.d8b9b528.js",
+    "main.js": "/static/js/main.aa306784.js",
     "static/media/me-portrait.jpg": "/static/media/me-portrait.3667fa43ecf8441355b0.jpg",
     "static/media/telecom-automation.jpg": "/static/media/telecom-automation.cbef3cc90cf338171a5f.jpg",
     "static/media/enterprise-workflow.jpg": "/static/media/enterprise-workflow.ba53a5cd879ff901dfdb.jpg",
@@ -10,10 +10,10 @@
     "static/media/resume_md_mehedi_hasan.pdf": "/static/media/resume_md_mehedi_hasan.7a864a3d1773910d79e0.pdf",
     "index.html": "/index.html",
     "main.a3c9a766.css.map": "/static/css/main.a3c9a766.css.map",
-    "main.d8b9b528.js.map": "/static/js/main.d8b9b528.js.map"
+    "main.aa306784.js.map": "/static/js/main.aa306784.js.map"
   },
   "entrypoints": [
     "static/css/main.a3c9a766.css",
-    "static/js/main.d8b9b528.js"
+    "static/js/main.aa306784.js"
   ]
 }
